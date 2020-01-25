@@ -7,9 +7,9 @@ Versão 1.0.0
 <b>to Run API application:
 
 #### REACT-APP/
-<p><b>npm install
+<p><b>npm install</b>
 <p> Configure MongoDB Atlas Cluster then
-<p> set URL on app.js 
+<p> set URL on app.js, run:
 <p><b>npm start
 
 
