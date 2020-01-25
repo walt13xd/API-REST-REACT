@@ -8,6 +8,8 @@ Versão 1.0.0
 
 #### REACT-APP/
 <p><b>npm install
+<p> Configure MongoDB Atlas Cluster then
+<p> set URL on app.js 
 <p><b>npm start
 
 
